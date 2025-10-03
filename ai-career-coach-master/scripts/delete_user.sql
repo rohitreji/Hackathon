@@ -1,0 +1,1 @@
+DELETE FROM "User" WHERE "clerkUserId" = 'user_33YsmJViAHVWtZYuinzFFuWr49W';
